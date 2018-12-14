@@ -2,7 +2,7 @@
 # What is it? | 这是啥？
 This is a plugin for SCP: Secret Laboratory | 这是SCP:秘密实验室的插件
 # plugin content | 插件内容
-if player join sever in project time when player disconncet,recovery player role,hp,item,ammo,position.
+if player join sever in project time after disconncet,recovery player role,hp,item,ammo,position.
 
 如果玩家在掉线保护结束前加入掉线服务器，将会恢复掉线前的职业血量物品子弹和地点：
 
