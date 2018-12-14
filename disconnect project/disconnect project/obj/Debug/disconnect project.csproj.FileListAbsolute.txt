@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\bin\Debug\disconnect project.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\bin\Debug\disconnect project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\bin\Debug\Smod2.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\obj\Debug\disconnect project.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\disconnect project\disconnect project\obj\Debug\disconnect project.pdb
