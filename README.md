@@ -3,8 +3,12 @@
 This is a plugin for SCP: Secret Laboratory | 这是SCP:秘密实验室的插件
 # plugin content | 插件内容
 if player join sever in project time when player disconncet,recovery player role,hp,item,ammo,position.
+
 | 如果玩家在掉线保护结束前加入掉线服务器，将会恢复掉线前的职业血量物品子弹和地点：
-PS：only projcet once,do not recovery player when disconncet again | 只保护一次,再次掉线不保护
+
+PS：only projcet once,do not recovery player when disconncet again
+
+| 只保护一次,再次掉线不保护
 
 # How do I use it? | 我如何使用它？
 download the dll from [here](https://github.com/cushaw1/SCPSL-disconnect-project/releases)
