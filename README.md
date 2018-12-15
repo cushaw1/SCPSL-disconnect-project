@@ -34,4 +34,4 @@ dp_time | Integer | 60 | protect time(s)
 dp_enable | Boolean | True | 开启/关闭插件
 dp_warhead | Boolean | True | 开启/关闭核弹炸后玩家不复活
 dp_language | Integer | 1 | 服务器info信息语言,0是英文,1是中文
-dp_time | Integer | 60 | project time(s) 保护时间(秒)
+dp_time | Integer | 60 | 保护时间(秒)
