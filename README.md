@@ -2,11 +2,11 @@
 # What is it? | 这是啥？
 This is a plugin for SCP: Secret Laboratory | 这是SCP:秘密实验室的插件
 # plugin content | 插件内容
-if player join sever in project time after disconncet,recovery player role,hp,item,ammo,position.
+f player connects after disconnecting (within the same round), he recovers the role he was before（recovery player role,hp,item,ammo,position）
 
 如果玩家在掉线保护结束前加入掉线服务器，将会恢复掉线前的职业血量物品子弹和地点：
 
-PS：only projcet once,do not recovery player when disconncet again
+PS：only protcet once,do not recovery player when disconncet again
 
 PS：只保护一次,再次掉线不保护
 
@@ -26,7 +26,7 @@ Config Option | Value Type | Default Value | Description
 dp_enable | Boolean | True | plugin enable/disable
 dp_warhead | Boolean | True | player can not recovery after warhead boom enable/disable
 dp_language | Integer | 1 | sever info language,0 is english,1 is chinese
-dp_time | Integer | 60 | project time(s)
+dp_time | Integer | 60 | protect time(s)
 
 # 参数设置 （中文）
 参数名 | 参数类型 | 默认值 | 注释
