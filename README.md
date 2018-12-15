@@ -2,7 +2,7 @@
 # What is it? | 这是啥？
 This is a plugin for SCP: Secret Laboratory | 这是SCP:秘密实验室的插件
 # plugin content | 插件内容
-f player connects after disconnecting (within the same round), he recovers the role he was before（recovery player role,hp,item,ammo,position）
+If player connects after disconnecting (within the same round), he recovers the role he was before（recovery player role,hp,item,ammo,position）
 
 如果玩家在掉线保护结束前加入掉线服务器，将会恢复掉线前的职业血量物品子弹和地点：
 
